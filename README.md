@@ -8,23 +8,23 @@ I have experience with research data collection, structured screening, and datas
 
 ## Featured Projects
 
-### [gravity-of-trade-analysis](https://github.com/akrejci1/gravity-of-trade-analysis)
-Gravity model of international trade using regression analysis on bilateral trade flows.
+### [euronext100-capm-analysis](https://github.com/akrejci1/euronext100-capm-analysis)
+CAPM-based analysis of stock risk and return for companies in the Euronext 100 index
 
 ### [okun-law-france](https://github.com/akrejci1/okun-law-france)
-Econometric analysis of the relationship between GDP growth and unemployment in France.
+Econometric analysis of the relationship between GDP growth and unemployment in France
 
-### [euronext100-capm-analysis](https://github.com/akrejci1/euronext100-capm-analysis)
-CAPM-based analysis of stock risk and return for companies in the Euronext 100 index.
-
-### [excel-hdi-analysis](https://github.com/akrejci1/excel-hdi-analysis)
-Statistical analysis of Human Development Index trends across 175 economies, including sampling, hypothesis testing, and regression modeling in Excel.
+### [gravity-of-trade-analysis](https://github.com/akrejci1/gravity-of-trade-analysis)
+Gravity model of international trade using regression analysis on bilateral trade flows
 
 ### [engeto-election-scraper](https://github.com/akrejci1/engeto-election-scraper)
-Python web scraper for collecting structured data from the Czech parliamentary election results.
+Python web scraper for collecting structured data from the Czech parliamentary election results
+
+### [excel-hdi-analysis](https://github.com/akrejci1/excel-hdi-analysis)
+Statistical analysis of Human Development Index trends across 175 economies, including sampling, hypothesis testing, and regression modeling in Excel
 
 ### [engeto-sql-economic-analysis](https://github.com/akrejci1/engeto-sql-economic-analysis)
-SQL-based analysis of economic datasets using joins, aggregations, and analytical queries.
+SQL-based analysis of economic datasets using joins, aggregations, and analytical queries
 
 ---
 
