@@ -14,7 +14,7 @@ CAPM-based analysis of stock risk and return for companies in the Euronext 100 i
 ### [okun-law-france](https://github.com/akrejci1/okun-law-france)
 Econometric analysis of the relationship between GDP growth and unemployment in France
 
-### [philips-curve-france](https://github.com/akrejci1/philips-curve-france)
+### [phillips-curve-france](https://github.com/akrejci1/phillips-curve-france)
 New Keynesian Phillips Curve estimation for France using GMM, NLS, and ML on quarterly OECD data
 
 ### [engeto-python-election-scraper](https://github.com/akrejci1/engeto-python-election-scraper)
