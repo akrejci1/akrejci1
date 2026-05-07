@@ -17,7 +17,7 @@ Econometric analysis of the relationship between GDP growth and unemployment in 
 ### [philips-curve-france](https://github.com/akrejci1/philips-curve-france)
 New Keynesian Phillips Curve estimation for France using GMM, NLS, and ML on quarterly OECD data
 
-### [engeto-election-scraper](https://github.com/akrejci1/engeto-election-scraper)
+### [engeto-python-election-scraper](https://github.com/akrejci1/engeto-python-election-scraper)
 Python web scraper for collecting structured data from the Czech parliamentary election results
 
 ### [excel-hdi-analysis](https://github.com/akrejci1/excel-hdi-analysis)
